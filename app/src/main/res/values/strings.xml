@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+
+    <string name="lorem_text">As a graduate student from MAKAUT, (W.B). and Neotia Institute of Technology Management and
+Science, I have acquired a comprehensive understanding of core Java, data structures, and
+algorithms. I have also gained practical experience in Android Development, where I have developed
+several applications using Android Studio.\n\n In addition to my academic achievements, I have actively participated in various coding competitions
+and hackathons, where I have consistently demonstrated my ability to solve complex problems
+efficiently. I have also completed 500+ DSA problems on various platforms such as Geeks for Geeks,
+LeetCode,Code chef, etc. \n\nFurthermore, I have a strong foundation in DSA,JDBC, MySQL, OOPs, XML, and Android
+Development. I am proficient in using developer tools like IntelliJ IDEA </string>
+    <string name="job_name">Subhadip Pati\nComputer Science and Engineering</string>
+    <string name="name">ABOUT</string>
+
+    <string name="lorem_text2"> MAKAUT,(W.B)\nNeotia Institute of Technology Management and Science.\n Kolkata,West Bengal,India.\n 8.21|10 \n
+B.tech in Computer Science and Engineering.
+</string>
+
+    <string name="lorem">12th Standard\n(WBCHSE)\nScience</string>
+    <string name="lore">10th Standard\n (WBBSE)</string>
+    <string name="skill">1.Core Java.\n
+ 2.Data Structures and Algorithms.\n
+3.Problem Solving.\n
+4.PostgreSQL.\n
+5.JDBC\n
+6.MySQL\n
+7.Oops.\n
+8.XML.\n
+9.Android Studio.\n
+10.Android Development </string>
+
+    <string name="achie">
+       1.OASIS INFO-BYTE Android Application Development.\n
+        2.CodeClose Java Development.\n\n
+        3.CodSoft Android Development.\n\n
+   4.Accenture Developer Virtual Experience Program.\n\n
+   5.Ministry of Electronics and Information Technology(Meity), Government of India.\n\n
+        6.Deloitte Technology Virtual Experience Program.\n\n
+  7.GoldmanSachs FinTech Engineering Virtual Experience Program.\n\n
+  8.Infosys Power Programmer Virtual Experience Program.\n\n
+  9.J.P.Morgan chase and co Software Engineering Virtual Experience.
+    </string>
+
+    <string name="project"><b><i>Use Technology</i></b>\n
+        1.Core Java\n
+        2.Oops\n
+        3.SQL\n
+        4.Java Swing\n
+        5.XML\n
+        6.DSA\n
+</string>
+<string name="pro">
+    <b>Sorting-Visualization</b>\n
+  1.BubbleSort.\n
+    2.GnomeSort.\n
+    3.InsertionSort.\n
+    4.MergeSort\n
+    5.QuandrixSort.\n
+    6.RadixSort.\n
+    7.SelectionSort.\n
+    8.ShellSort.\n
+    <b>Software Requirement</b>\n
+    <b>Developer tools:</b> intellij idea.\n
+    <b> Frontend Technology:</b> Java Swing.\n
+    <b> Backend Technology:</b> Java
+
+</string>
+
+    <string name="det"> <b> HealthCare </b>\n
+         <b>Software Requirement</b>\n
+    <b>Developer tools:</b> Android Studio.\n
+    <b> Frontend Technology:</b> XML.\n
+    <b> Backend Technology:</b> Java
+    <b> Database : </b>  SQL
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
